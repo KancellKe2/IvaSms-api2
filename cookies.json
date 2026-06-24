@@ -1,1 +1,45 @@
 #Your Json Formated Cookies Here
+[
+{
+    "domain": ".ivasms.com",
+    "expirationDate": 1790071600,
+    "hostOnly": false,
+    "httpOnly": false,
+    "name": "_fbp",
+    "path": "/",
+    "sameSite": "lax",
+    "secure": false,
+    "session": false,
+    "storeId": "0",
+    "value": "fb.1.1782292180524.326677034205541132",
+    "id": 1
+},
+{
+    "domain": "www.ivasms.com",
+    "expirationDate": 1782302799.38908,
+    "hostOnly": true,
+    "httpOnly": true,
+    "name": "ivas_sms_session",
+    "path": "/",
+    "sameSite": "lax",
+    "secure": false,
+    "session": false,
+    "storeId": "0",
+    "value": "eyJpdiI6InB4Wjc2ZHUrWXlUS3ZBZmQ0bWhtb2c9PSIsInZhbHVlIjoicm1JWTlkdEJ2MCtLU1prL1lValdVdDViWlV5R2RDcEpWYWpZTkcxdUlQVXQyNWphZWFnYUhmb0tvUTZzcWVEZUpGNVllWk9MTmlmb2NmNGRYeDRxMXozUGJNODl4Wi83ME5paGNIT1pWaWFWK3lVOWxvbUY5SHkwY1VlNHdXSEgiLCJtYWMiOiIzM2NmNDBkOTAzODk0NmMwNTNhODc0YzBkMjMxMmYxMzNmODIzYTcyOWQ3MTZjNmQxN2E3NDUzZjY1NjEwZjU3IiwidGFnIjoiIn0%3D",
+    "id": 2
+},
+{
+    "domain": "www.ivasms.com",
+    "expirationDate": 1782302799.388728,
+    "hostOnly": true,
+    "httpOnly": false,
+    "name": "XSRF-TOKEN",
+    "path": "/",
+    "sameSite": "lax",
+    "secure": false,
+    "session": false,
+    "storeId": "0",
+    "value": "eyJpdiI6IlpTeko3MDhqSDlwNFlqMWhXbW5kTUE9PSIsInZhbHVlIjoiZHJvSTFhWnAydkVWMStGZ2szbWpMZHlVTEVWR1hWSUhxU3ZOQUl6cSttVTFVTk1jUDB4SXYvaWsrNDVIc0xETWI4OGkvN3RxWHdtK3pVeWFSK2xmVDVPbmluUjUxWkVnZTJYSGMvVGxDQUdvVjJGUWMwTnJZSWU0N2I5TTZlNlMiLCJtYWMiOiJkYzBkYjc3NDIyMTkwOTBhMGFlNDcyZjFlYTYyYjE1NTM4YTY2ZGM0ZmRjOGI2ZmQ1OWU4NjEwNjdiMzBiYmEwIiwidGFnIjoiIn0%3D",
+    "id": 3
+}
+]
